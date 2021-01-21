@@ -11,7 +11,7 @@ In computer science, binary search, also known as half-interval search, logarith
 ```
 apt install python
 apt install git
-git clone 
+git clone https://github.com/aungnyeinchan351/Searching_algorithms.git
 cd Searching_algorithms
 ```
 3. Run files.
